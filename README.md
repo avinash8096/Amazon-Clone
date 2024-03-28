@@ -1,2 +1,2 @@
 # Amazon-Clone
-A responsive amazon clone using Html, Css and javascript.
+A responsive amazon clone using Html, Css and Javascript.
